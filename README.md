@@ -12,6 +12,8 @@ variable details — payee, date, and amount — precisely where they belong. Yo
 **template** that mirrors your check at true physical size, position each field down to the
 millimeter, then print onto the real stock or export a print-ready PDF.
 
+![Screenshot](CheckPrinter-promo-screenshot.png)
+
 ### Key features
 
 - **True-to-size canvas** — the on-screen check matches real millimeters, so what you place is what prints.
